@@ -2,7 +2,7 @@
 
 <!-- Profile Picture Section -->
 <div align="left">
-  <img height="120" src="your-profile-image-link-here" alt="Profile Picture"/>
+  <img height="120" src="https://discord.com/channels/@me/1312449627269890098/1351555648160137216" alt="Profile Picture"/>
 </div>
 
 <!-- Skills Section -->
